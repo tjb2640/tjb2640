@@ -17,3 +17,5 @@ I don't vibe code. Machine learning is a useful tool for situations like statist
 ## 🔎 𝐒𝐨𝐜𝐢𝐚𝐥𝐬
 
 I don't maintain accounts on social networks aside from my [pixelfed](https://pixelfed.social/41XPAT). I post sometimes over at [www.41xpat.ca](https://www.41xpat.ca).
+
+![NixOS Daily](https://img.shields.io/badge/NixOS-Daily-blue?logo=nixos)
