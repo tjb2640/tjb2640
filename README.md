@@ -20,4 +20,5 @@ I don't maintain accounts on social networks aside from my [pixelfed](https://pi
 
 ![NixOS Daily](https://img.shields.io/badge/NixOS-Daily-blue?logo=nixos)
 ![Buy Canadian](https://img.shields.io/badge/Buy-Canadian-E60505?logo=aircanada)
+![Pragmatist](https://img.shields.io/badge/Pragmatist-FFBF3B)
 
