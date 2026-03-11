@@ -12,7 +12,7 @@ I run all of this on a ThinkPad X13 gen 3 with a Ryzen 7 PRO processor. I value 
 
 ## 🤖 𝐀𝐈 𝐬𝐭𝐚𝐭𝐮𝐬
 
-I don't vibe code. Machine learning is a useful tool for situations like statistical recommendations, medical research, and autocomplete, but an LLM isn't a miracle cure. Local AI is cool for general coding questions but check its output. Get better as a developer in the next 5-10 years to be as futureproof as possible.
+I personally have used it only to familiarize myself with its functionality. I do not vibe code. Purpose-built ML has useful applications for humanity, but as far as commercial LLMs and image generation goes, I'll just leave politics off the table here. I am aware of how big tech moves AI money around and what they have promised versus what has come to fruition.
 
 ## 🔎 𝐒𝐨𝐜𝐢𝐚𝐥𝐬
 
