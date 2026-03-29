@@ -5,7 +5,7 @@ Hi I'm Ty, a Canadian fullstack software developer with around 8 years' professi
 ## 💻 𝐃𝐞𝐯 𝐬𝐞𝐭𝐮𝐩
 
 - <img src="nix-logo.png" alt="NixOS" width="14" /> **[NixOS](https://nixos.org/)** for predictability ([here](https://github.com/tjb2640/nix-config) is my system config)
-- <img src="niri.png" alt="Niri WM" width="14" /> **[niri](https://github.com/niri-wm/niri)** as my Wayland compositor
+- <img src="niri.png" alt="Niri WM" width="14" /> **[niri](https://github.com/niri-wm/niri)** as my Wayland compositor - config [here](https://github.com/tjb2640/nix-config/blob/main/modules/home-manager/files/.config/niri/config.kdl)
 - &nbsp;<img src="helix.svg" alt="hx" width="10" /> **[helix](https://helix-editor.com/)** editor, and IntelliJ for Kotlin
 
 I run all of this on a ThinkPad X13 gen 3 with a Ryzen 7 PRO processor. My ideal laptop is portable first since I'm mostly on the move.
