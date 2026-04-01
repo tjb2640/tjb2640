@@ -5,7 +5,7 @@ Hi I'm Ty, a Canadian fullstack software developer with around 8 years' professi
 ## 💻 𝐃𝐞𝐯 𝐬𝐞𝐭𝐮𝐩
 
 - <img src="nix-logo.png" alt="NixOS" width="14" /> **[NixOS](https://nixos.org/)** for predictability ([here](https://github.com/tjb2640/nix-config) is my system config)
-- <img src="niri.png" alt="Niri WM" width="14" /> **[niri](https://github.com/niri-wm/niri)** as my Wayland compositor - config [here](https://github.com/tjb2640/nix-config/blob/main/modules/home-manager/files/.config/niri/config.kdl)
+- <img src="niri.png" alt="Niri WM" width="14" /> **[niri](https://github.com/niri-wm/niri)** as my Wayland compositor - config [here](https://gist.github.com/tjb2640/f7f59a93f36e110e7ba7cb9a20d7876d)
 - &nbsp;<img src="helix.svg" alt="hx" width="10" /> **[helix](https://helix-editor.com/)** editor, and IntelliJ for Kotlin
 
 I run all of this on a ThinkPad X13 gen 3 with a Ryzen 7 PRO processor. My ideal laptop is portable first since I'm mostly on the move.
@@ -19,6 +19,4 @@ I recognize and welcome the potential of purpose-built machine learning models, 
 I don't maintain accounts on social networks aside from my [pixelfed](https://pixelfed.social/41XPAT).
 
 ![NixOS Daily](https://img.shields.io/badge/NixOS-Daily-blue?logo=nixos)
-![Buy Canadian](https://img.shields.io/badge/Buy-Canadian-E60505?logo=aircanada)
-![Pragmatist](https://img.shields.io/badge/Pragmatist-FFBF3B)
 
