@@ -11,12 +11,9 @@ This GitHub account is where I keep my personal projects.
 
 I'm a NixOS user and write most of my hobby code in Kotlin and Python.
 
-- <img src="nix-logo.png" alt="NixOS" width="14" />
-  **[NixOS](https://nixos.org/)** for predictability ([here](https://github.com/tjb2640/nix-config) is my system config)
-- <img src="niri.png" alt="Niri WM" width="14" />
-  **[niri](https://github.com/niri-wm/niri)** Wayland compositor - config [here](https://gist.github.com/tjb2640/f7f59a93f36e110e7ba7cb9a20d7876d)
-- &nbsp;<img src="helix.svg" alt="hx" width="10" />
-  **[helix](https://helix-editor.com/)** editor and IntelliJ
+- <img src="nix-logo.png" alt="NixOS" width="14" /> **[NixOS](https://nixos.org/)** for predictability ([here](https://github.com/tjb2640/nix-config) is my system config)
+- <img src="niri.png" alt="Niri WM" width="14" /> **[niri](https://github.com/niri-wm/niri)** Wayland compositor - config [here](https://gist.github.com/tjb2640/f7f59a93f36e110e7ba7cb9a20d7876d)
+- &nbsp;<img src="helix.svg" alt="hx" width="10" /> **[helix](https://helix-editor.com/)** editor and IntelliJ
 
 I run all of this on a ThinkPad X13 gen 3 with a Ryzen 7 PRO processor.
 My ideal laptop is portable first since I'm mostly on the move.
